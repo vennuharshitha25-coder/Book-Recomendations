@@ -21,4 +21,8 @@ public class Book {
     public String getLanguage() { return language; }
     public String getStory() { return story; }
     public String getAuthor() { return author; }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 6bbceafc4d0a7e91d630560c51131a499e34b32d
